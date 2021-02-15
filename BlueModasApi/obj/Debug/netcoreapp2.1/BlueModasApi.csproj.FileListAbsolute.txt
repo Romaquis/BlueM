@@ -1,0 +1,14 @@
+D:\Romaquis\Cursos\Jet\BlueModasApi\bin\Debug\netcoreapp2.1\BlueModasApi.deps.json
+D:\Romaquis\Cursos\Jet\BlueModasApi\bin\Debug\netcoreapp2.1\BlueModasApi.runtimeconfig.json
+D:\Romaquis\Cursos\Jet\BlueModasApi\bin\Debug\netcoreapp2.1\BlueModasApi.runtimeconfig.dev.json
+D:\Romaquis\Cursos\Jet\BlueModasApi\bin\Debug\netcoreapp2.1\BlueModasApi.dll
+D:\Romaquis\Cursos\Jet\BlueModasApi\bin\Debug\netcoreapp2.1\BlueModasApi.pdb
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.csprojAssemblyReference.cache
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.csproj.CoreCompileInputs.cache
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.RazorAssemblyInfo.cache
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.RazorAssemblyInfo.cs
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.AssemblyInfoInputs.cache
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.AssemblyInfo.cs
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.RazorTargetAssemblyInfo.cache
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.dll
+D:\Romaquis\Cursos\Jet\BlueModasApi\obj\Debug\netcoreapp2.1\BlueModasApi.pdb
