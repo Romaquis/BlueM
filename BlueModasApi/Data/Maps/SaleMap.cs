@@ -9,8 +9,8 @@ namespace BlueModasApi.Data.Maps {
         {
             builder.ToTable("Sale");
             builder.HasKey(x => x.Id);
-            builder.HasOne<Account>(x => x.Account).WithOne(x => x.Sale).HasForeignKey<Sale>(x => x.Id);
-            builder.HasOne<Payment>(x => x.Payment).WithOne(x => x.Sale).HasForeignKey<Sale>(x => x.Id);
+            builder.HasOne(x => x.Account).WithOne(x => x.Sale).HasForeignKey<Sale>(x => x.Id);
+            builder.HasOne(x => x.Payment).WithOne(x => x.Sale).HasForeignKey<Sale>(x => x.Id);
             builder.Property(x => x.CreateDate).IsRequired();
         }
     }
